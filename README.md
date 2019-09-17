@@ -4,7 +4,7 @@
 
 ## 一、运维
 
-[运维快捷指令]()
+[运维快捷指令](https://github.com/Bian2017/my_note/blob/master/doc/%E8%BF%90%E7%BB%B4/%E8%BF%90%E7%BB%B4%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4.md)
 
 ### 1.1 阿里云
 
