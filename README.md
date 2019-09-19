@@ -14,7 +14,7 @@
 
 [Jenkins 踩坑指南](https://github.com/Bian2017/my_note/blob/master/doc/%E8%BF%90%E7%BB%B4/%E8%85%BE%E8%AE%AF%E4%BA%91/Jenkins%E8%B8%A9%E5%9D%91%E6%8C%87%E5%8D%97.md)
 
-[Centos7 下搭建 Gitlab 服务器]()
+[Centos7 下搭建 Gitlab 服务器](https://github.com/Bian2017/my_note/blob/master/doc/%E8%BF%90%E7%BB%B4/%E8%85%BE%E8%AE%AF%E4%BA%91/Centos7%E4%B8%8B%E6%90%AD%E5%BB%BAGitlab%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 
 ## 二、后端
 
