@@ -43,3 +43,22 @@ external_url 'http://49.235.154.5:9797/'
 如果没有域名，直接输入服务器 ip 和指定端口进行访问。
 
 第一次登录需设置密码。
+
+### 6. 删除 gitlab
+
+gitlab 太吃内存了，1 核 2G 的 ECS 服务器根本就跑不动 gitlab。
+
+先停止运行 gitlab：
+
+> gitlab-ctl stop
+
+查看 gitlab 的 rpm 包：
+
+```
+> rpm -qa | grep gitlab
+gitlab-ce-10.0.0-ce.0.el7.x86_64
+```
+
+删除软件包
+
+> rpm -e gitlab-ce-10.0.0-ce.0.el7.x86_64
